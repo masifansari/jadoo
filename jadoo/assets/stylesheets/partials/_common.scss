@@ -1,0 +1,39 @@
+h1,
+h3 {
+    font-family: 'Volkhov', serif;
+}
+
+h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+li {
+    list-style: none;
+}
+
+.main-pad {
+    padding: 80px 0;
+}
+
+.main-pad-testimonial {
+    padding: 0 0 50px 0;
+}
+
+.main-pad-two {
+    padding: 25px 0;
+}
+
+// font-family: 'Open Sans', sans-serif;
+// font-family: 'Poppins', sans-serif;
+
+
+
+@media screen and (max-width: 768px) {
+    .main-pad {
+        padding: 50px 0;
+    }
+}

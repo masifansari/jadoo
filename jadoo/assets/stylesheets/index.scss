@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E5E5E5;
+    width: 100%
+}
+
+html {
+    width: 100%;
+}
+
+@import './partials/colors';
+@import './partials/common';
+@import './partials/homepage';
